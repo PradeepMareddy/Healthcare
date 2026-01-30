@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\Alekhya\\Downloads\\Hospital+Patient+Records",
+			"userId": "Alekhya",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhMTQwYjIyOC05Njc4LTQyNWMtYjRmOC0yOGEwNzg0NDdjNjkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onPremtoAzureintegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
