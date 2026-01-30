@@ -1,0 +1,9 @@
+{
+	"name": "pandudeepuDatafactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4332a3f6-bc84-4203-b7a9-93f11345e3f8",
+		"tenantId": "4fb34d28-89b2-4710-9bcc-30824d17fc30"
+	}
+}
